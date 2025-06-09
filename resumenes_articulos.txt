@@ -35,7 +35,13 @@ Metadatos:
 }
 
 Resumen:
-I now can give a great answer.
+\textbf{Objetivo del estudio:} El estudio tiene como objetivo abordar el problema de optimización de la programación de horarios de cursos de manera automatizada, utilizando un algoritmo hiperheurístico basado en Tabu-Variable Neighborhood Search.
+
+\textbf{Metodología:} Se emplea un enfoque hiperheurístico que combina la búsqueda de vecindario variable y la búsqueda Tabu para optimizar la asignación de horarios de cursos. Se genera una solución inicial mediante un algoritmo voraz y luego se aplica la búsqueda Tabu dentro de un entorno de vecindario variable para mejorar esta solución.
+
+\textbf{Resultados principales:} Los experimentos realizados con dos conjuntos de datos del mundo real muestran que el algoritmo propuesto logra mejorar significativamente la calidad de los horarios generados en comparación con los horarios generados manualmente. Se observa una mejora de 1855 y 1110 en términos de penalizaciones por violación de restricciones blandas.
+
+\textbf{Conclusiones clave:} El estudio demuestra que el algoritmo propuesto puede automatizar eficazmente la programación de horarios de cursos en entornos del mundo real, superando a algoritmos heurísticos convencionales como el algoritmo de escalada de colinas. Se identifica la necesidad de investigaciones futuras para mejorar aún más el rendimiento del algoritmo y explorar nuevas estrategias dentro del enfoque hiperheurístico.
 
 BibTeX:
  @article{2016, volume={38}, ISSN={0196-4399}, url={http://dx.doi.org/10.1016/j.clinmicnews.2016.10.005}, DOI={10.1016/j.clinmicnews.2016.10.005}, number={22}, journal={Clinical Microbiology Newsletter}, publisher={Elsevier BV}, year={2016}, month=nov, pages={185} }
@@ -47,18 +53,9 @@ Metadatos:
 {
   "title": "Generating Timetable and Students schedule based on data mining techniques",
   "authors": [
-    {
-      "name": "Safwan M. Shatnawi",
-      "affiliation": "Administrative and Technical Programs, College of Applied Studies, University of Bahrain"
-    },
-    {
-      "name": "Fawzi Albalooshi",
-      "affiliation": "Quality Assurance Authority for Education and Training (QAAET), The Higher Education Review Unit (HERU)"
-    },
-    {
-      "name": "Khaleel Rababa'h",
-      "affiliation": "Administrative and Technical Programs, College of Applied Studies, University of Bahrain"
-    }
+    "Safwan M. Shatnawi",
+    "Fawzi Albalooshi",
+    "Khaleel Rababa'h"
   ],
   "year": 2012,
   "journal": "International Journal of Engineering Research and Applications (IJERA)",
@@ -66,13 +63,13 @@ Metadatos:
 }
 
 Resumen:
-\textbf{Objetivo del estudio:} El estudio presenta una nueva técnica para generar un horario académico basado en métodos de \textit{data mining}, con el objetivo de formar dinámicamente grupos de estudiantes y encontrar la solución óptima utilizando una función heurística.
+\textbf{Objetivo del estudio:} El estudio presenta una nueva técnica para generar un horario académico basado en técnicas de minería de datos, utilizando un método de agrupación para formar dinámicamente grupos de estudiantes, seguido de una función heurística para encontrar la solución óptima.
 
-\textbf{Metodología:} Se utilizó un algoritmo FP-tree para generar clusters iniciales, los cuales fueron luego optimizados mediante un algoritmo de mapeo de colores. Se consideraron tanto restricciones estrictas como flexibles para garantizar la satisfacción de los horarios de los estudiantes.
+\textbf{Metodología:} Se utiliza un algoritmo FP-tree para generar clusters iniciales que luego se optimizan utilizando un algoritmo de mapeo de colores. Se consideran restricciones duras y blandas al generar el horario y el cronograma de los estudiantes.
 
-\textbf{Resultados principales:} Tras aplicar el algoritmo FP-tree y el mapeo de colores, se obtuvieron clusters de cursos que permiten a los estudiantes registrarse en cursos sin conflictos de horario. Se logró minimizar el número de clusters y se generaron secciones optimizadas para asignar horarios.
+\textbf{Resultados principales:} Se aplicó la técnica propuesta a datos reales de la Universidad de Bahréin, lo que resultó en la generación de horarios y cronogramas de estudiantes que cumplen con las restricciones establecidas.
 
-\textbf{Conclusiones clave:} El enfoque propuesto va más allá de evitar conflictos de horario, siendo orientado al estudiante para proporcionar horarios eficientes. La técnica utilizada permite una formación dinámica de clusters y minimiza el espacio de búsqueda para el algoritmo de mapeo de colores, mejorando la calidad de los horarios tanto para estudiantes como para instructores.
+\textbf{Conclusiones clave:} El enfoque propuesto permite a los estudiantes registrar todos los cursos deseados sin conflictos de horario, optimizando el horario de acuerdo con las restricciones definidas. La técnica de agrupación dinámica y el algoritmo de mapeo de colores demostraron ser efectivos en la generación de horarios académicos eficientes.
 
 BibTeX:
  @article{Iqbal_2023, title={See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/323614212 Ovarian Leiomyoma Associated with Serous Cystadenoma-A Case Report of an Uncommon Entity Ovarian Leiomyoma Associated with Serous Cystadenoma-A Case Report of an Uncommon Entity}, url={http://dx.doi.org/10.31219/osf.io/98avf}, DOI={10.31219/osf.io/98avf}, publisher={Center for Open Science}, author={Iqbal, Asad}, year={2023}, month=may }

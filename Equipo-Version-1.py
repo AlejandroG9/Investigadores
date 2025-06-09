@@ -6,8 +6,14 @@ import requests
 import re
 
 
+try:
+    from config import OPENAI_API_KEY
+
+    os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
+except ImportError:
+    raise ImportError("Please create a config.py with your OPENAI_API_KEY.")
+
 # Define el modelo OpenAI
-os.environ["OPENAI_API_KEY"] = os.environ.get("OPENAI_API_KEY")
 os.environ["OPENAI_MODEL_NAME"] = "gpt-3.5-turbo"  # o "gpt-4" si tienes acceso
 
 # === Función para extraer texto de un PDF ===
