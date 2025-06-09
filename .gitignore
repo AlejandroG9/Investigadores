@@ -1,0 +1,8 @@
+# Añadir aquí los archivos o directorios que desees ignorar
+# Ejemplo de archivo ignorado:
+# archivo_a_ignorar.txt
+
+# Ejemplo de directorio ignorado:
+# /directorio_a_ignorar/
+
+config.py
