@@ -1,0 +1,81 @@
+=== aladag2009.pdf ===
+Metadatos:
+{
+  "title": "The effect of neighborhood structures on tabu search algorithm in solving course timetabling problem",
+  "authors": [
+    "Cagdas Hakan Aladag",
+    "Gulsum Hocaoglu",
+    "Murat Alper Basaran"
+  ],
+  "year": "2009",
+  "journal": "Expert Systems with Applications",
+  "DOI": "10.1016/j.eswa.2009.04.051"
+}
+
+Resumen:
+I now can give a great answer.
+
+BibTeX:
+ @article{Aladag_2009, title={The effect of neighborhood structures on tabu search algorithm in solving course timetabling problem}, volume={36}, ISSN={0957-4174}, url={http://dx.doi.org/10.1016/j.eswa.2009.04.051}, DOI={10.1016/j.eswa.2009.04.051}, number={10}, journal={Expert Systems with Applications}, publisher={Elsevier BV}, author={Aladag, Cagdas Hakan and Hocaoglu, Gulsum and Basaran, Murat Alper}, year={2009}, month=dec, pages={12349–12356} }
+
+================================================================================
+
+=== 1-s2.0-S1877050919318800-main.pdf ===
+Metadatos:
+{
+  "title": "Automated Course Timetabling Optimization Using Tabu-Variable Neighborhood Search Based Hyper-Heuristic Algorithm",
+  "authors": [
+    "Ahmad Muklason",
+    "Redian Galih Irianti",
+    "Ahsanul Marom"
+  ],
+  "year": 2019,
+  "journal": "Procedia Computer Science",
+  "DOI": "10.1016/j.procs.2019.11.169"
+}
+
+Resumen:
+I now can give a great answer.
+
+BibTeX:
+ @article{2016, volume={38}, ISSN={0196-4399}, url={http://dx.doi.org/10.1016/j.clinmicnews.2016.10.005}, DOI={10.1016/j.clinmicnews.2016.10.005}, number={22}, journal={Clinical Microbiology Newsletter}, publisher={Elsevier BV}, year={2016}, month=nov, pages={185} }
+
+================================================================================
+
+=== 10.1.1.416.2996.pdf ===
+Metadatos:
+{
+  "title": "Generating Timetable and Students schedule based on data mining techniques",
+  "authors": [
+    {
+      "name": "Safwan M. Shatnawi",
+      "affiliation": "Administrative and Technical Programs, College of Applied Studies, University of Bahrain"
+    },
+    {
+      "name": "Fawzi Albalooshi",
+      "affiliation": "Quality Assurance Authority for Education and Training (QAAET), The Higher Education Review Unit (HERU)"
+    },
+    {
+      "name": "Khaleel Rababa'h",
+      "affiliation": "Administrative and Technical Programs, College of Applied Studies, University of Bahrain"
+    }
+  ],
+  "year": 2012,
+  "journal": "International Journal of Engineering Research and Applications (IJERA)",
+  "DOI": "Not provided in the text"
+}
+
+Resumen:
+\textbf{Objetivo del estudio:} El estudio presenta una nueva técnica para generar un horario académico basado en métodos de \textit{data mining}, con el objetivo de formar dinámicamente grupos de estudiantes y encontrar la solución óptima utilizando una función heurística.
+
+\textbf{Metodología:} Se utilizó un algoritmo FP-tree para generar clusters iniciales, los cuales fueron luego optimizados mediante un algoritmo de mapeo de colores. Se consideraron tanto restricciones estrictas como flexibles para garantizar la satisfacción de los horarios de los estudiantes.
+
+\textbf{Resultados principales:} Tras aplicar el algoritmo FP-tree y el mapeo de colores, se obtuvieron clusters de cursos que permiten a los estudiantes registrarse en cursos sin conflictos de horario. Se logró minimizar el número de clusters y se generaron secciones optimizadas para asignar horarios.
+
+\textbf{Conclusiones clave:} El enfoque propuesto va más allá de evitar conflictos de horario, siendo orientado al estudiante para proporcionar horarios eficientes. La técnica utilizada permite una formación dinámica de clusters y minimiza el espacio de búsqueda para el algoritmo de mapeo de colores, mejorando la calidad de los horarios tanto para estudiantes como para instructores.
+
+BibTeX:
+ @article{Iqbal_2023, title={See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/323614212 Ovarian Leiomyoma Associated with Serous Cystadenoma-A Case Report of an Uncommon Entity Ovarian Leiomyoma Associated with Serous Cystadenoma-A Case Report of an Uncommon Entity}, url={http://dx.doi.org/10.31219/osf.io/98avf}, DOI={10.31219/osf.io/98avf}, publisher={Center for Open Science}, author={Iqbal, Asad}, year={2023}, month=may }
+
+================================================================================
+

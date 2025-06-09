@@ -1,0 +1,8 @@
+crewai
+openai
+langchain
+pypdf
+bibtexparser
+langchain_community
+pymupdf
+pymupdf
