@@ -5,4 +5,4 @@
 # Ejemplo de directorio ignorado:
 # /directorio_a_ignorar/
 
-config.py
+config.py__pycache__/
