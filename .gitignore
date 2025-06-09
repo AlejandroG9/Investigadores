@@ -6,3 +6,4 @@
 # /directorio_a_ignorar/
 
 config.py__pycache__/
+config.py
